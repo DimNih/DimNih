@@ -41,7 +41,7 @@
   <!-- Contact Section -->
   <h2>🔗 Hubungi Saya</h2>
   <p>
-    <a href="https://wa.me/081585261728?text=Saya%20Butuh%20Bantuan">
+    <a href="https://wa.me/+6281585261728?text=Saya%20Butuh%20Bantuan">
       <img src="https://img.icons8.com/color/48/whatsapp.png" alt="WhatsApp" title="WhatsApp">
     </a>
     <a href="https://github.com/DimNih">
