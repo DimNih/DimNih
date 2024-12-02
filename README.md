@@ -24,7 +24,7 @@
 <table align="center" border="0" cellpadding="10" style="margin: 20px auto;">
   <tr>
     <td><img src="https://media.licdn.com/dms/image/v2/D5622AQGl6RjAtCbIbw/feedshare-shrink_800/feedshare-shrink_800/0/1681191300659?e=2147483647&v=beta&t=-l1SSej1QADc4hw-KvNm-U8MiXjTuHhOQI1QiKc3nDM" alt="PHP" title="PHP" style="width: 60px; height: 60px;"></td>
-    <td><img src="https://assets.lottiefiles.com/packages/lf20_kotlin.json" alt="Kotlin" title="Kotlin" style="width: 60px; height: 60px;"></td>
+    <td><img src="https://cdn.dribbble.com/users/7094769/screenshots/16379061/media/27d863079a1c8955e2664197d600763d.gif" alt="Kotlin" title="Kotlin" style="width: 60px; height: 60px;"></td>
     <td><img src="https://raw.githubusercontent.com/DimNih/assets/main/javascript-logo-animated.gif" alt="JavaScript" title="JavaScript" style="width: 60px; height: 60px;"></td>
     <td><img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" alt="HTML" title="HTML" style="width: 60px; height: 60px;"></td>
     <td><img src="https://media.giphy.com/media/ltqE49y0pU71jl7Wj3/giphy.gif" alt="CSS" title="CSS" style="width: 60px; height: 60px;"></td>
