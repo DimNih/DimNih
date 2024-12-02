@@ -23,7 +23,8 @@
   <h2 style="color: #555;">🚀 Skills</h2>
   <table align="center" border="0" cellpadding="10" style="margin: 20px auto;">
     <tr>
-      <td><img src="https://raw.githubusercontent.com/DimNih/assets/main/php-logo-animated.svg" alt="PHP" title="PHP"></td>
+      <td><img src="![image](https://github.com/user-attachments/assets/5242b7fa-42d2-45e6-99bf-c2a199ead8e1)
+" alt="PHP" title="PHP"></td>
       <td><img src="https://img.icons8.com/color/48/kotlin.png" alt="Kotlin" title="Kotlin"></td>
       <td><img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" title="JavaScript"></td>
       <td><img src="https://img.icons8.com/color/48/html-5.png" alt="HTML" title="HTML"></td>
