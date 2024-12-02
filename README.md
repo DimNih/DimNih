@@ -8,11 +8,11 @@
   <hr style="width: 60%; border: 1px solid #ccc; margin: 20px 0;">
   
   <!-- About Section -->
-  <h2 style="color: #555;">🌟 Tentang Ku</h2>
+  <h2 style="color: #555;">🌟 Pekerjaan Ku 🌟</h2>
   <p style="max-width: 600px; color: #666;">
-    🔭 <strong>Saat ini mengerjakan:</strong> Web Development <br>
-    🌱 <strong>Belajar:</strong> Kotlin, Android Development <br>
-    📫 <strong>Hubungi:</strong> <a href="mailto:dimaserlansyah5@gmail.com" style="color: #007BFF; text-decoration: none;">dimaserlansyah5@gmail.com</a>
+     <strong> 🔭 Saat ini mengerjakan:</strong> Web Development <br>
+     <strong> 🌱 Belajar:</strong> Kotlin, Android Development <br>
+     <strong> 📫 Hubungi:</strong> <a href="mailto:dimaserlansyah5@gmail.com" style="color: #007BFF; text-decoration: none;">dimaserlansyah5@gmail.com</a>
   </p>
 
   <img src="https://media.tenor.com/hW_mTYy_zS4AAAAj/gojo-satoru.gif" width="100px" alt="Separator" style="margin: 20px 0;">
