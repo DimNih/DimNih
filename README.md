@@ -1,4 +1,4 @@
-<div align="center" style="font-family: Arial, sans-serif; line-height: 1.6;">
+<div align="center" style="font-family: Arial, sans-serif; line-height: 1.6;  background-image: url('https://www.toptal.com/designers/subtlepatterns/patterns/double-bubble-outline.png'); background-size: cover;">
 
   <!-- Header Section -->
   <img src="https://media.tenor.com/WIBu8pNfdYoAAAAi/chalk-couture.gif" width="250px" alt="Welcome Animation">
@@ -12,6 +12,7 @@
   <p style="max-width: 600px; color: #666;">
      <strong> 🔭 Saat ini mengerjakan:</strong> Web Development <br>
      <strong> 🌱 Belajar:</strong> Kotlin, Android Development <br>
+     <strong> 📫 Hubungi:</strong> <a href="mailto:dimaserlansyah5@gmail.com" style="color: #007BFF; text-decoration: none;">dimaserlansyah5@gmail.com</a>
   </p>
 
   <img src="https://media.tenor.com/hW_mTYy_zS4AAAAj/gojo-satoru.gif" width="100px" alt="Separator" style="margin: 20px 0;">
