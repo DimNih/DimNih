@@ -40,9 +40,10 @@
     <a href="https://github.com/DimNih/Apk_DISIPLINKU" style="margin-right: 15px; color: #007BFF; text-decoration: none;">
       <strong>📱 Pengembangan Android</strong>
     </a>
+    <P>
     <a href="https://github.com/DimNih/Web_Project" style="color: #007BFF; text-decoration: none;">
       <strong>🌐 Pengembangan Web</strong>
-    </a>
+    </a></P>
   </div>
   
   <hr style="width: 60%; border: 1px solid #ccc; margin: 20px 0;">
