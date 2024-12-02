@@ -20,22 +20,23 @@
   <hr style="width: 60%; border: 1px solid #ccc; margin: 20px 0;">
   
   <!-- Skills Section -->
-  <h2 style="color: #555;">🚀 Skills</h2>
-  <table align="center" border="0" cellpadding="10" style="margin: 20px auto;">
-    <tr>
-      <td><img src="https://media.licdn.com/dms/image/v2/D5622AQGl6RjAtCbIbw/feedshare-shrink_800/feedshare-shrink_800/0/1681191300659?e=2147483647&v=beta&t=-l1SSej1QADc4hw-KvNm-U8MiXjTuHhOQI1QiKc3nDM" alt="PHP" title="PHP"></td>
-      <td><img src="https://img.icons8.com/color/48/kotlin.png" alt="Kotlin" title="Kotlin"></td>
-      <td><img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" title="JavaScript"></td>
-      <td><img src="https://img.icons8.com/color/48/html-5.png" alt="HTML" title="HTML"></td>
-      <td><img src="https://img.icons8.com/color/48/css3.png" alt="CSS" title="CSS"></td>
-    </tr>
-    <tr>
-      <td><img src="https://img.icons8.com/color/48/android-studio.png" alt="Android Studio" title="Android Studio"></td>
-      <td><img src="https://img.icons8.com/color/48/git.png" alt="Git" title="Git"></td>
-      <td><img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" title="VS Code"></td>
-      <td><img src="https://img.icons8.com/color/48/linux.png" alt="Linux" title="Linux"></td>
-    </tr>
-  </table>
+<h2 style="color: #555;">🚀 Skills</h2>
+<table align="center" border="0" cellpadding="10" style="margin: 20px auto;">
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/DimNih/assets/main/php-logo-animated.svg" alt="PHP" title="PHP" style="width: 60px; height: 60px;"></td>
+    <td><img src="https://assets.lottiefiles.com/packages/lf20_kotlin.json" alt="Kotlin" title="Kotlin" style="width: 60px; height: 60px;"></td>
+    <td><img src="https://raw.githubusercontent.com/DimNih/assets/main/javascript-logo-animated.gif" alt="JavaScript" title="JavaScript" style="width: 60px; height: 60px;"></td>
+    <td><img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" alt="HTML" title="HTML" style="width: 60px; height: 60px;"></td>
+    <td><img src="https://media.giphy.com/media/ltqE49y0pU71jl7Wj3/giphy.gif" alt="CSS" title="CSS" style="width: 60px; height: 60px;"></td>
+  </tr>
+  <tr>
+    <td><img src="https://media.giphy.com/media/1oF1KAEYvmXB3X2q6o/giphy.gif" alt="Android Studio" title="Android Studio" style="width: 60px; height: 60px;"></td>
+    <td><img src="https://media.giphy.com/media/26FPnsRww5GjznJDa/giphy.gif" alt="Git" title="Git" style="width: 60px; height: 60px;"></td>
+    <td><img src="https://media.giphy.com/media/1AgViYynLCg6CSiCmR/giphy.gif" alt="VS Code" title="VS Code" style="width: 60px; height: 60px;"></td>
+    <td><img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Linux" title="Linux" style="width: 60px; height: 60px;"></td>
+  </tr>
+</table>
+
 
   <hr style="width: 60%; border: 1px solid #ccc; margin: 20px 0;">
   
