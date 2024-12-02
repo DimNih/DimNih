@@ -26,7 +26,7 @@
     <td><img src="https://media.licdn.com/dms/image/v2/D5622AQGl6RjAtCbIbw/feedshare-shrink_800/feedshare-shrink_800/0/1681191300659?e=2147483647&v=beta&t=-l1SSej1QADc4hw-KvNm-U8MiXjTuHhOQI1QiKc3nDM" alt="PHP" title="PHP" style="width: 60px; height: 60px;"></td>
     <td><img src="https://cdn.dribbble.com/users/7094769/screenshots/16379061/media/27d863079a1c8955e2664197d600763d.gif" alt="Kotlin" title="Kotlin" style="width: 60px; height: 60px;"></td>
     <td><img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*-tOldEbfjijxn9VqZeULqg.gif" alt="JavaScript" title="JavaScript" style="width: 60px; height: 60px;"></td>
-    <td><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwQskk4h3v1qmksO2dtMy-doZ1Fr7X38JuBLOmUrMW7nEsJ9BWeIdOXX_ECVMQQL9iHYWqBojfQS9GXyMFJLLic4hZc5J2NlUW9uHqUJ-Qpp6qoM5HhPTOcRdReeIwMOZ3fadh_ppoNC00/s1600/HTML5LOGOMaker-Icon-Sample.gif" alt="HTML" title="HTML" style="width: 60px; height: 60px;"></td>
+    <td><img src="https://camo.githubusercontent.com/1c77a27896d01443a8d982b7209beb06853dc49c83ba51fad960ebf1f7fb7a9c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f584178796c524d43647062455755417672382f67697068792e676966" alt="HTML" title="HTML" style="width: 60px; height: 60px;"></td>
     <td><img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/CSS3.gif" alt="CSS" title="CSS" style="width: 60px; height: 60px;"></td>
   </tr>
 </table>
