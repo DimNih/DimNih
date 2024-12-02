@@ -12,7 +12,6 @@
   <p style="max-width: 600px; color: #666;">
      <strong> 🔭 Saat ini mengerjakan:</strong> Web Development <br>
      <strong> 🌱 Belajar:</strong> Kotlin, Android Development <br>
-     <strong> 📫 Hubungi:</strong> <a href="mailto:dimaserlansyah5@gmail.com" style="color: #007BFF; text-decoration: none;">dimaserlansyah5@gmail.com</a>
   </p>
 
   <img src="https://media.tenor.com/hW_mTYy_zS4AAAAj/gojo-satoru.gif" width="100px" alt="Separator" style="margin: 20px 0;">
