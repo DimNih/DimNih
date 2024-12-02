@@ -1,4 +1,4 @@
-<div align="center" style="font-family: Arial, sans-serif; line-height: 1.6;  background-image: url('https://www.toptal.com/designers/subtlepatterns/patterns/double-bubble-outline.png'); background-size: cover;">
+<div align="center" style="font-family: Arial, sans-serif; line-height: 1.6;  background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fid.pikbest.com%2Fbackgrounds%2Fblue-waves-3d-background_9180024.html&psig=AOvVaw3vi3pbNZO1q2Xw_lkVfo_s&ust=1733210023098000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDP0NDEiIoDFQAAAAAdAAAAABAE'); background-size: cover;">
 
   <!-- Header Section -->
   <img src="https://media.tenor.com/WIBu8pNfdYoAAAAi/chalk-couture.gif" width="250px" alt="Welcome Animation">
