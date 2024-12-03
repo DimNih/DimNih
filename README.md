@@ -9,7 +9,7 @@
   
   <!-- About Section -->
   <h2 style="color: #555;">🌟 Pekerjaan Ku 🌟</h2>
-  <p style="max-width: 600px; color: #666;">
+  <p style="max-width: 600px; color: #666; background-color: #f0f0f0;">
      <strong> 🔭 Saat ini mengerjakan:</strong> Web Development <br>
      <strong> 🌱 Belajar:</strong> Kotlin, Android Development <br>
   </p>
