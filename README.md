@@ -3,7 +3,7 @@
   <!-- Header Section -->
   <img src="https://media.tenor.com/WIBu8pNfdYoAAAAi/chalk-couture.gif" width="250px" alt="Welcome Animation">
   
-  <h1 style="margin-top: 20px; color: #333;">Halo Semua, Saya <strong style="color: #ff4500;">Dimas Erlansyah</strong> 👋</h1>
+  <h1 style="margin-top: 20px; color: #333;">Hello, Saya <strong style="color: #ff4500;">Dimas Erlansyah</strong> 👋</h1>
   
   <hr style="width: 60%; border: 1px solid #ccc; margin: 20px 0;">
 
@@ -15,22 +15,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DimNih&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DimNih&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
   
-  <!-- About Section -->
-  <h2 style="color: #555;">🌟 Pekerjaan Ku 🌟</h2>
-  <p style="max-width: 600px; color: #666; background-color: #f0f0f0;">
-     <strong> 🔭 Saat ini mengerjakan:</strong> Web Development <br>
-     <strong> 🌱 Belajar:</strong> Kotlin, Android Development <br>
-  </p>
 
   <img src="https://media.tenor.com/hW_mTYy_zS4AAAAj/gojo-satoru.gif" width="100px" alt="Separator" style="margin: 20px 0;">
-
-  <hr style="width: 60%; border: 1px solid #ccc; margin: 20px 0;">
   
   <!-- Skills Section -->
 <h2 style="color: #555;">🚀 Skills</h2>
@@ -51,24 +38,21 @@
   <h2 style="color: #555;">🛠️ Projek Pengembangan</h2>
   <div style="margin: 20px;">
     <a href="https://github.com/DimNih/Apk_DISIPLINKU" style="margin-right: 15px; color: #007BFF; text-decoration: none;">
-      <strong>📱 Pengembangan Android</strong>
+      <strong>📱 Pengembangan Android(flutter)</strong>
     </a>
     <P>
     <a href="https://github.com/DimNih/Web_Project" style="color: #007BFF; text-decoration: none;">
-      <strong>🌐 Pengembangan Web</strong>
+      <strong>🌐 Pengembangan Web(sederhana)</strong>
     </a></P>
   </div>
   
   <hr style="width: 60%; border: 1px solid #ccc; margin: 20px 0;">
   
   <!-- Contact Section -->
-  <h2 style="color: #555;">🔗 Hubungi Saya</h2>
+  <h2 style="color: #555;">Hubungi Ay</h2>
   <p>
     <a href="https://wa.me/+6281585261728?text=Saya%20Butuh%20Bantuan" style="margin-right: 15px;">
       <img src="https://img.icons8.com/color/48/whatsapp.png" alt="WhatsApp" title="WhatsApp">
-    </a>
-    <a href="https://github.com/DimNih" style="margin-right: 15px;">
-      <img src="https://img.icons8.com/color/48/github.png" alt="GitHub" title="GitHub">
     </a>
     <a href="mailto:dimaserlansyah5@gmail.com">
       <img src="https://img.icons8.com/color/48/email.png" alt="Email" title="Email">
