@@ -7,7 +7,6 @@
   
   <hr style="width: 60%; border: 1px solid #ccc; margin: 20px 0;">
 
----
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DimNih&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=false)<br/>
