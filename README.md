@@ -8,12 +8,6 @@
   <hr style="width: 60%; border: 1px solid #ccc; margin: 20px 0;">
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DimNih&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=false)<br/>
-
----
-  
-
   <img src="https://media.tenor.com/hW_mTYy_zS4AAAAj/gojo-satoru.gif" width="100px" alt="Separator" style="margin: 20px 0;">
   
   <!-- Skills Section -->
