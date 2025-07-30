@@ -27,13 +27,10 @@
   
   <!-- Projects Section -->
   <h2 style="color: #555;">🛠️ Projek Pengembangan</h2>
-  <div style="margin: 20px;">
-    <a href="https://github.com/DimNih/Apk_DISIPLINKU" style="margin-right: 15px; color: #007BFF; text-decoration: none;">
-      <strong>📱 Pengembangan Android(flutter)</strong>
-    </a>
+  <div style="margin: 20px;"> 
     <P>
     <a href="https://github.com/DimNih/Web_Project" style="color: #007BFF; text-decoration: none;">
-      <strong>🌐 Pengembangan Web(sederhana)</strong>
+      <strong>🌐 Pengembangan FrontEnd Web Toko Online (private)</strong>
     </a></P>
   </div>
   
