@@ -26,7 +26,7 @@
 <!-- Projects Section -->
 ### 🛠️ Projek Pengembangan
 
-📌 [🌐 Pengembangan FrontEnd Web Toko Online (private)](https://github.com/DimNih/Web_Project)
+📌 [🌐 Pengembangan FrontEnd Web Toko Online (private)](https://github.com/DimNih/Cihuy-Store.git)
 
 <hr style="width: 60%; border: 1px solid #ccc; margin: 20px 0;">
 
