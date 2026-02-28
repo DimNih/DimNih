@@ -23,14 +23,14 @@
 <hr style="width: 60%; border: 1px solid #ccc; margin: 20px 0;">
 
 <!-- Projects Section -->
-### 🛠️ Projek Pengembangan
+### Projek Pengembangan
 
-📌 [🌐 Pengembangan FrontEnd Web Toko Online (private)](https://github.com/DimNih/Cihuy-Store.git)
+[🌐 Pengembangan FrontEnd Web Toko Online (private)](https://github.com/DimNih/Cihuy-Store.git)
 
 <hr style="width: 60%; border: 1px solid #ccc; margin: 20px 0;">
 
 <!-- Contact Section -->
-### 📞 Hubungi Ay
+### Hubungi 
 
 <a href="https://wa.me/+6281585261728?text=Saya%20Butuh%20Bantuan" style="margin-right: 15px;">
   <img src="https://img.icons8.com/color/48/whatsapp.png" alt="WhatsApp" title="WhatsApp">
