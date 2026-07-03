@@ -1,4 +1,4 @@
-desainkan <div align="center" style="font-family: Arial, sans-serif; line-height: 1.6; background-image: url('https://img.freepik.com/free-vector/gradient-minimalist-background_23-2149974328.jpg'); background-size: cover;">
+<div align="center" style="font-family: Arial, sans-serif; line-height: 1.6; background-image: url('https://img.freepik.com/free-vector/gradient-minimalist-background_23-2149974328.jpg'); background-size: cover;">
 
 <!-- Header Section -->
 <img src="https://media.tenor.com/WIBu8pNfdYoAAAAi/chalk-couture.gif" width="250px" alt="Welcome Animation">
@@ -44,4 +44,4 @@ desainkan <div align="center" style="font-family: Arial, sans-serif; line-height
 <!-- Quote Section -->
 > _"Kalo Gak Ngoding Ya Tidur."_ – **DimDim**
 
-</div> dan jangan pakai emot2
+</div>
