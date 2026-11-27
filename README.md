@@ -20,8 +20,7 @@
 I am a software engineering student and full-stack developer focused on building reliable, production-ready web platforms, enterprise learning systems, and academic ecosystems. Beyond web engineering, I actively explore **AI agent tooling**, **Android native development**, **Linux USB HID reverse engineering**, and **C++17 ARM64 game engine modding**.
 
 - **Current Focus:** Enterprise LMS architectures, multi-role RBAC systems, high-performance APIs, and cross-runtime integrations.
-- **Core Ecosystem:** Laravel (11–13), React 19, Node.js/Express, PHP, Go, Python (FastAPI), Kotlin Compose, and C++17 (Android NDK).
-- **Portfolio:** [dimaserlan.my.id](https://dimaserlan.my.id)
+- **Core Ecosystem:** Laravel (11–13), React 19, Node.js/Express, PHP, Go, Python (FastAPI), Kotlin Compose, and C++17 (Android NDK)
 
 ---
 
