@@ -1,47 +1,61 @@
-<div align="center" style="font-family: Arial, sans-serif; line-height: 1.6; background-image: url('https://img.freepik.com/free-vector/gradient-minimalist-background_23-2149974328.jpg'); background-size: cover;">
+<div align="center">
 
-<!-- Header Section -->
-<img src="https://media.tenor.com/WIBu8pNfdYoAAAAi/chalk-couture.gif" width="250px" alt="Welcome Animation">
+# Dimas Erlansyah
 
-### Hello, Saya <strong style="color: #ff4500;">Dimas Erlansyah</strong> 👋
+**Full-Stack Software Engineer · Systems & Native Modding Enthusiast**
 
-<hr style="width: 60%; border: 1px solid #ccc; margin: 20px 0;">
+*D4 Software Engineering Technology (TRPL) — Politeknik Mitra Industri, MM2100, Indonesia*
 
-<img src="https://media.tenor.com/hW_mTYy_zS4AAAAj/gojo-satoru.gif" width="100px" alt="Separator" style="margin: 20px 0;">
-
-<!-- Skills Section -->
-### Skills
-
-<table align="center" border="0" cellpadding="10" style="margin: 20px auto;">
-  <tr>
-    <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,js,php,css" />
-</p>
-  </tr>
-</table>
-
-<hr style="width: 60%; border: 1px solid #ccc; margin: 20px 0;">
-
-<!-- Projects Section -->
-### Projek Pengembangan
-
-[🌐 Pengembangan FrontEnd Web Toko Online (private)](https://github.com/DimNih/Cihuy-Store.git)
-
-<hr style="width: 60%; border: 1px solid #ccc; margin: 20px 0;">
-
-<!-- Contact Section -->
-### Hubungi 
-
-<a href="https://wa.me/+6281585261728?text=Saya%20Butuh%20Bantuan" style="margin-right: 15px;">
-  <img src="https://img.icons8.com/color/48/whatsapp.png" alt="WhatsApp" title="WhatsApp">
-</a>
-<a href="mailto:dimaserlansyah5@gmail.com">
-  <img src="https://img.icons8.com/color/48/email.png" alt="Email" title="Email">
-</a>
-
-<hr style="width: 60%; border: 1px solid #ccc; margin: 20px 0;">
-
-<!-- Quote Section -->
-> _"Kalo Gak Ngoding Ya Tidur."_ – **DimDim**
+[![Portfolio](https://img.shields.io/badge/Portfolio-dimaserlan.my.id-1D4ED8?style=flat-square&logo=googlechrome&logoColor=white)](https://dimaserlan.my.id)
+[![Polmind](https://img.shields.io/badge/Polmind-Student_Portfolio-0D1B30?style=flat-square&logo=academia&logoColor=white)](https://www.trpl-polmind.com/id/portofolio/dimas-erlansyah)
+[![Email](https://img.shields.io/badge/Email-dimaserlansyah5%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dimaserlansyah5@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/6281585261728)
 
 </div>
+
+---
+
+### About Me
+
+I am a software engineering student and full-stack developer focused on building reliable, production-ready web platforms, enterprise learning systems, and academic ecosystems. Beyond web engineering, I actively explore **AI agent tooling**, **Android native development**, **Linux USB HID reverse engineering**, and **C++17 ARM64 game engine modding**.
+
+- **Current Focus:** Enterprise LMS architectures, multi-role RBAC systems, high-performance APIs, and cross-runtime integrations.
+- **Core Ecosystem:** Laravel (11–13), React 19, Node.js/Express, PHP, Go, Python (FastAPI), Kotlin Compose, and C++17 (Android NDK).
+- **Portfolio:** [dimaserlan.my.id](https://dimaserlan.my.id)
+
+---
+
+### Technical Stack
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Backend & Web** | Laravel, PHP 8+, Node.js, Express, Go (Gin), Python (FastAPI), Livewire, Inertia.js, REST API |
+| **Frontend & UI** | React 19, JavaScript (ES2024+), Tailwind CSS, Vite, Hotwire Turbo, Three.js / R3F |
+| **Mobile & Native** | Kotlin, Jetpack Compose, Flutter, Dart, C++17, Android NDK, OpenGL ES |
+| **Data & Infrastructure** | MySQL, Microsoft SQL Server, Docker, Linux (`hidraw`/`udev`), Git, WebAuthn / Passkeys |
+
+<div align="center">
+  <br />
+  <img src="https://skillicons.dev/icons?i=laravel,php,js,react,nodejs,express,go,py,fastapi,tailwind,vite" alt="Web & Backend Stack" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=kotlin,flutter,dart,cpp,mysql,docker,linux,git,figma,threejs" alt="Mobile, Systems & Tools" />
+</div>
+
+---
+
+### GitHub Overview
+
+<div align="center">
+  <img height="158" src="https://github-readme-stats.vercel.app/api?username=DimNih&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=60A5FA&text_color=E6EDF3" alt="DimNih GitHub Stats" />
+  <img height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimNih&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=E6EDF3" alt="Top Languages" />
+</div>
+
+---
+
+### Connect
+
+Open to software engineering opportunities, technical collaborations, and discussions around backend architecture, industrial web systems, or tooling.
+
+- **Portfolio:** [https://dimaserlan.my.id](https://dimaserlan.my.id)
+- **Email:** [dimaserlansyah5@gmail.com](mailto:dimaserlansyah5@gmail.com)
+- **WhatsApp:** [+62 815-8526-1728](https://wa.me/6281585261728)
