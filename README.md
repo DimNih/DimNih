@@ -50,12 +50,3 @@ I am a software engineering student and full-stack developer focused on building
   <img height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimNih&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=E6EDF3" alt="Top Languages" />
 </div>
 
----
-
-### Connect
-
-Open to software engineering opportunities, technical collaborations, and discussions around backend architecture, industrial web systems, or tooling.
-
-- **Portfolio:** [https://dimaserlan.my.id](https://dimaserlan.my.id)
-- **Email:** [dimaserlansyah5@gmail.com](mailto:dimaserlansyah5@gmail.com)
-- **WhatsApp:** [+62 815-8526-1728](https://wa.me/6281585261728)
